@@ -2,7 +2,7 @@
 ## Overwiew
 Given a user-drawn simple polygon (A polygon without intersecting edges), decompose it into convex polygons (Polygons where none of the vertices are pointed inward).
 ## Screenshots
-!(https://github.com/oliverdantzer/simple-convex-decomposition/screenshots/decomp-1.png)
+![Alt text](screenshots/decomp-1.png?raw=true "Title")
 ## Prerequisites
 The following packages are used by this project:
  - Numpy
