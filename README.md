@@ -7,9 +7,10 @@ Given a user-drawn simple polygon (A polygon without intersecting edges), decomp
 ![Screenshot of convex decomposition - 3](screenshots/decomp-3.png?raw=true "Title")
 ![Screenshot of convex decomposition - 4](screenshots/decomp-4.png?raw=true "Title")
 ![Screenshot of convex decomposition - 5](screenshots/decomp-5.png?raw=true "Title")
-## Prerequisites
+## To run things
+### Prerequisites
 The following packages are used by this project:
  - Numpy
  - Pygame
-## To run things
+### Running
 With Python 3.10 or later and prerequisite packages installed, run ```run.py```.
