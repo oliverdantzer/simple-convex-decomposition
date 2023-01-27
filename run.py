@@ -12,7 +12,7 @@ clock = pygame.time.Clock()
 window_size = (800, 600)  # pygame display window size
 bg_color = (230, 230, 230)  # display background color
 screen = pygame.display.set_mode(window_size)
-pygame.display.set_caption('Shape Maker')
+pygame.display.set_caption('simple-convex-decomposition')
 ft_surface = pygamedraw.FadingTextSurface(screen)  # fading text surface to attach temporary messages to
 
 
