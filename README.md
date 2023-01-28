@@ -10,7 +10,7 @@ Given a user-drawn simple polygon (A polygon without intersecting edges), decomp
 ## To run things
 ### Prerequisites
 The following packages are used by this project:
- - Numpy
- - Pygame
+ - ```numpy```
+ - ```pygame```
 ### Running
 With Python 3.10 or later and prerequisite packages installed, run ```run.py```.
